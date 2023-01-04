@@ -32,5 +32,12 @@ se tiene que quitar linea 27
 aceptar estos cambios
 y mantener el mio
 
+
+
+
+
+
+
+
 bajar dos lineas
 para no conflicto
