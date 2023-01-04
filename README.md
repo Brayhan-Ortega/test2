@@ -33,5 +33,7 @@ aceptar estos cambios
 y mantener el mio
 
 
-aceptar cambios 
-manetener los mios si o si
+
+
+esto se debe
+de bajar
