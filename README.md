@@ -29,5 +29,10 @@ linea 26
 linea 27se tiene que quitar linea 26
 se tiene que quitar linea 27
 
-l 32
-l 33
+
+
+
+
+
+quitar 32
+quitar 33
