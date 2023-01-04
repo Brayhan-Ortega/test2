@@ -30,6 +30,7 @@ linea 27se tiene que quitar linea 26
 se tiene que quitar linea 27
 
 aceptar estos cambios
-y mantener e
+y mantener el mio
+
 bajar dos lineas
 para no conflicto
