@@ -32,8 +32,5 @@ se tiene que quitar linea 27
 aceptar estos cambios
 y mantener el mio
 
-
-
-
-esto se debe
-de bajar
+esto aqui se debe de
+quedar si o si 
