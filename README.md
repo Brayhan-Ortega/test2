@@ -24,4 +24,5 @@ sdfw
 rewr
 
 linea 26
-linea 27
+linea 27se tiene que quitar linea 26
+se tiene que quitar linea 27
